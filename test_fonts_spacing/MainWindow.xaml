@@ -3,6 +3,6 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <TextBlock Text="d'A -- dA" FontFamily="./#Sevillana" FontSize="60"></TextBlock>
     </Grid>
 </Window>

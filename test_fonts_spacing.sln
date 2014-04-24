@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_fonts_spacing", "test_fonts_spacing.csproj", "{5F3BDF2F-65F0-4625-927E-2301AABD169B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net40", "test_fonts_spacing\net40.csproj", "{5F3BDF2F-65F0-4625-927E-2301AABD169B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net35", "test_fonts_spacing_net35\net35.csproj", "{30559449-72D5-4B64-8A18-7C90E70CD10F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{5F3BDF2F-65F0-4625-927E-2301AABD169B}.Debug|x86.Build.0 = Debug|x86
 		{5F3BDF2F-65F0-4625-927E-2301AABD169B}.Release|x86.ActiveCfg = Release|x86
 		{5F3BDF2F-65F0-4625-927E-2301AABD169B}.Release|x86.Build.0 = Release|x86
+		{30559449-72D5-4B64-8A18-7C90E70CD10F}.Debug|x86.ActiveCfg = Debug|x86
+		{30559449-72D5-4B64-8A18-7C90E70CD10F}.Debug|x86.Build.0 = Debug|x86
+		{30559449-72D5-4B64-8A18-7C90E70CD10F}.Release|x86.ActiveCfg = Release|x86
+		{30559449-72D5-4B64-8A18-7C90E70CD10F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
